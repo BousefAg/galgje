@@ -13,4 +13,6 @@
 
 ## Beurten
 
-Ik raad w X
+Ik raad w X  
+
+Ik raad E
