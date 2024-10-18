@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-| | | | | | |
+|L|A|P|T|O|P|
 
 |-|-|-|-|-|-|
 
@@ -21,4 +21,4 @@ Ik raad M X
 
 Ik raad V X  
 
-Ik raad Laptop
+Ik raad Laptop geraden!
