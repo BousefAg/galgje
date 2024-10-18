@@ -19,4 +19,6 @@ Ik raad E X
 
 Ik raad M X
 
-Ik raad V X
+Ik raad V X  
+
+Ik raad Laptop
